@@ -32,10 +32,11 @@
 ```text
 dev-c-portifolio/
 │
-├── 01-basicos/
+├── 01-fundamentos/
 ├── 02-condicionais/
-├── 03-repeticoes/
+├── 03-lacos-de-repeticoes/
 ├── 04-funcoes/
 ├── 05-vetores-matrizes/
 ├── 06-ponteiros/
-└── 07-projetos/
+├── 07-structs/
+└── 08-mini-projetos/
